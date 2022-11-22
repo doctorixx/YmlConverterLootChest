@@ -1,0 +1,570 @@
+chests:
+  chest:
+    chance:
+      '0': 100
+      '1': 100
+      '10': 100
+      '11': 100
+      '12': 100
+      '13': 100
+      '14': 100
+      '15': 100
+      '16': 100
+      '17': 100
+      '18': 100
+      '19': 100
+      '2': 100
+      '20': 100
+      '21': 100
+      '22': 100
+      '23': 100
+      '24': 100
+      '25': 100
+      '26': 100
+      '3': 100
+      '4': 100
+      '5': 100
+      '6': 100
+      '7': 100
+      '8': 100
+      '9': 100
+    direction: SOUTH
+    fall: false
+    holo: chest
+    inventory:
+      '0': &id001
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '1': &id002
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '10': &id003
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '11': &id004
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '12': &id005
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '13': &id006
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HELMET
+      '14': &id007
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '15': &id008
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '16': &id009
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '17': &id010
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '18': &id011
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '19': &id012
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '2': &id013
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '20': &id014
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '21': &id015
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '22': &id016
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '23': &id017
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '24': &id018
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '25': &id019
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '26': &id020
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '3': &id021
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '4': &id022
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '5': &id023
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '6': &id024
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '7': &id025
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '8': &id026
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+      '9': &id027
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: IRON_HORSE_ARMOR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"AK-47"},{"italic":false,"color":"yellow","text":"
+            в–Є В«30В»"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Fully
+            automatic with high power."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Effective
+            at medium range."}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Controls
+            are inverted."}],"text":""}'
+    lastreset: 1669054507340
+    particle: VILLAGER_HAPPY
+    position:
+      pitch: 0.0
+      world: world
+      x: 24.0
+      y: 81.0
+      yaw: 0.0
+      z: 2.0
+    randomradius: 0
+    respawn_cmd: false
+    respawn_natural: false
+    take_message: false
+    time: -1
+    type: TRAPPED_CHEST
+  yamlC_0:
+    chance:
+      '0': 100
+      '1': 100
+      '10': 100
+      '11': 100
+      '12': 100
+      '13': 100
+      '14': 100
+      '15': 100
+      '16': 100
+      '17': 100
+      '18': 100
+      '19': 100
+      '2': 100
+      '20': 100
+      '21': 100
+      '22': 100
+      '23': 100
+      '24': 100
+      '25': 100
+      '26': 100
+      '3': 100
+      '4': 100
+      '5': 100
+      '6': 100
+      '7': 100
+      '8': 100
+      '9': 100
+    direction: SOUTH
+    fall: false
+    holo: chest
+    inventory:
+      '0': *id001
+      '1': *id002
+      '10': *id003
+      '11': *id004
+      '12': *id005
+      '13': *id006
+      '14': *id007
+      '15': *id008
+      '16': *id009
+      '17': *id010
+      '18': *id011
+      '19': *id012
+      '2': *id013
+      '20': *id014
+      '21': *id015
+      '22': *id016
+      '23': *id017
+      '24': *id018
+      '25': *id019
+      '26': *id020
+      '3': *id021
+      '4': *id022
+      '5': *id023
+      '6': *id024
+      '7': *id025
+      '8': *id026
+      '9': *id027
+    lastreset: 1669054507340
+    particle: VILLAGER_HAPPY
+    position:
+      pitch: 0.0
+      world: world
+      x: 24.0
+      y: 85.0
+      yaw: 0.0
+      z: 4.0
+    randomradius: 0
+    respawn_cmd: false
+    respawn_natural: false
+    take_message: false
+    time: -1
+    type: TRAPPED_CHEST
+  yamlC_1:
+    inventory:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 2586
+        type: TRAPPED_CHEST
+    chance:
+      '0': 100
+    fall: true
+    type: TRAPPED_CHEST
+    respawn_cmd: true
+    respawn_natural: true
+    take_message: true
+    direction: SOUTH
+    holo: yamlC_1
+    time: 10
+    position:
+      world: world
+      x: 24.0
+      y: 81.0
+      z: 4.0
+      pitch: 0.0
+      yaw: 0.0
+    lastreset: 1669096911899
+    particle: FLAME
+    randomradius: 0
