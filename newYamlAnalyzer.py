@@ -1,6 +1,7 @@
 import ruamel.yaml
 
-class YamlAnalyzer:
+
+class YamlAnalyer:
 
     def __init__(self, path: str, prefix: str):
         self.prefix = prefix
@@ -13,7 +14,7 @@ class YamlAnalyzer:
         pass
 
     def fixChestSettings(self, main_chest_name: str):
-        main_chest = dict(self.yaml["chests"][main_chest_name])
+        main_chest = self.yaml["chests"][main_chest_name]
 
         for chest_name in self.yaml["chests"].keys():
             if chest_name.startswith(self.prefix) and chest_name != main_chest_name:
